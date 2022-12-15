@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+def add(a,b,c, z, f):
+    return a + b + c + z + f
+=======
+def add(a,b,c, d):
+    return a + b + c + d
+>>>>>>> fix/add2
